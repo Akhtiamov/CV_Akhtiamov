@@ -1,0 +1,215 @@
+body nav .navbar-brand {
+    margin-right: 1rem;
+}
+
+.div_navbar {
+    display: inline-flex;
+}
+
+.linkedin_link {
+    display: inline-flex;
+    align-items: center;
+}
+
+.linkedin_link__icon {
+    width: 28px;
+    margin-right: 2rem;
+    vertical-align: middle;
+}
+
+.future_block {
+    background-image: url(img/abstract-1231877_1920_2.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 2rem;
+    padding-top: 3rem;
+}
+
+.future_block h1 {
+    color: #fff;
+    font-size: 2.5rem;
+}
+
+.future_block p {
+    color: #fff;
+    font-size: 1.1rem;
+    text-shadow: #1d2124 0px 0px 5px;
+}
+
+.sertificates .card {
+    border-radius: 0;
+    padding: 0;
+}
+
+.carousel_stepik img {
+    max-width: 40rem;
+    margin: auto;
+    padding-bottom: 7rem;
+    padding-top: 1.5rem;
+}
+
+.carousel_stepik .carousel-inner {
+    background-color: darkgrey;
+    background-position: center;
+    background-size: cover;
+}
+
+.carousel_stepik .carousel-control-next, .carousel_stepik .carousel-control-prev {
+    color: darkgrey;
+}
+
+.carousel_stepik h5 {
+    color: white;
+    text-decoration: underline;
+    font-size: 1.4rem;
+    text-shadow: #1d2124 0px 0px 5px;
+}
+
+.carousel_stepik p {
+    font-weight: 600;
+    font-size: 1.3rem;
+    text-shadow: #1d2124 0px 0px 5px;
+}
+
+.carousel_stepik .carousel-caption {
+    padding-bottom: 5px;
+}
+
+.work_experience {
+    background-image: url(img/macro-1452987_1920.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#work {
+    text-align: center;
+    padding-bottom: 2rem;
+    padding-top: 3rem;
+    color: white;
+    font-size: 4rem;
+    text-shadow: #1d2124 0px 0px 15px;
+}
+
+#uvsol_img {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+#tgt_img {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.collapse .card-body {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.card-deck__item {
+    padding: 0;
+    padding-top: 10px;
+}
+
+.card-deck__item .collapse .card-body ul {
+    padding-left: 30px;
+}
+
+.skills_block h1, .science_block > h1 {
+    padding: 3rem;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+    font-size: 4rem;
+}
+.skills_block {
+    background-color:#dbe7f1
+}
+.skills_block ul {
+    margin: 0;
+    padding-left: 4rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+}
+
+.science_block {
+    background-color: #9c94b9;
+    background-position: left;
+    background-size: cover;
+}
+
+.publications {
+    padding-right: 2rem;
+    padding-left: 2rem;
+    color: black;
+}
+
+.publications a {
+    color: rgb(7, 7, 97);
+    font-style: italic;
+}
+
+.science_block__links {
+    /* padding-left: 2rem; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-bottom: 2rem;
+}
+
+.science_block__links a {
+    font-size: 1.3rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.science_block__links h4{
+    margin: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.education_block {
+    align-items: center;
+    text-align: center;
+    background-color: #dbe7f1;
+}
+
+.education_block div {
+    padding: 1.5rem;
+    padding-top: 3rem;
+}
+
+.education_block__kfu {
+    background-image: url(img/KFU_img.webp);
+    background-size: cover;
+    background-position: center;
+    text-shadow: #ffffff 0px 0px 10px;
+    color: black;
+}
+
+#contacts {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#contacts h3, #contacts a {
+    padding: 1rem;
+    margin: 0;
+}
+
+#contacts a {
+    font-size: 1.5rem;
+}
+
+.custom_footer {
+    background-color:#313b42;
+    padding: 1rem;
+}
+
+.custom_footer p {
+    color: white;
+    margin: 0;
+    padding-left: 1rem;
+}
