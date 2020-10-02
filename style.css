@@ -110,6 +110,7 @@ body nav .navbar-brand {
 .card-deck__item {
     padding: 0;
     padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .card-deck__item .collapse .card-body ul {
